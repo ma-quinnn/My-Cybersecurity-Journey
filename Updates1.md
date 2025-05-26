@@ -1,4 +1,4 @@
-# 🛡️ Mae's Cybersecurity Analyst Journey – Progress Report (As of May 2025)
+# 🛡️ My Cybersecurity Analyst Journey – Progress Report (As of May 2025)
 
 **This is my learning journey update for my cybersecurity progress :)**
 
