@@ -3,7 +3,7 @@
 **This is my learning journey update for my cybersecurity progress :)**
 
 ## 👩‍💻 About Me
-Hi, I'm Mae — an aspiring **Cybersecurity Analyst** with a strong passion for defensive security (Blue Team). I'm currently self-studying while working full-time, using platforms like **TryHackMe**, **Udemy**, and **Kali Linux** to build a solid cybersecurity foundation. I'm learning **Kali Linux**, and other **virtual machines** to gain hands-on experience. I'm also continuously learning **computer networking** because it's a broad and vital subject in cybersecurity. My goal is to break into the industry through consistent learning, practical labs, and public documentation of my progress.
+Hi, It's Quinnn (not my real name) — an aspiring **Cybersecurity Analyst** with a strong passion for defensive security (Blue Team). I'm currently self-studying while working full-time, using platforms like **TryHackMe**, **Udemy**, and **Kali Linux** to build a solid cybersecurity foundation. I'm learning **Kali Linux**, and other **virtual machines** to gain hands-on experience. I'm also continuously learning **computer networking** because it's a broad and vital subject in cybersecurity. My goal is to break into the industry through consistent learning, practical labs, and public documentation of my progress.
 
 ---
 
