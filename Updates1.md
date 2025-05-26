@@ -70,7 +70,7 @@ Hi, I'm Mae — an aspiring **Cybersecurity Analyst** with a strong passion for 
 - Practice and complete beginner-level **Blue Team rooms**
 - Deepen knowledge in **network protocols, firewalls, and OSI model**
 - Document **Kali Linux commands** and **VM experiments** on GitHub
-- Learn **Wireshark**, **log analysis**, and **incident response basics**
+- Learn **Wireshark**, **SIEM** - **log analysis**, and **incident response basics**
 - Begin setting up advanced **virtual lab** (after new laptop purchase)
 
 ---
