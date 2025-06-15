@@ -29,14 +29,13 @@ Hi, It's Quinnn (not my real name) — an aspiring **Cybersecurity Analyst** wit
 | 🎯 Certification Goals   | 🟡 In Progress | Targeting SAL1 (Security Analyst Level 1) on TryHackMe |
 | 🧠 Blue Team Skills       | ⏳ Upcoming | Will explore SIEM tools, log analysis, and threat detection |
 
-*[View this repository] > https://github.com/ma-quinnn/MyCertifications
-
 ---
 
 ## 🧪 Current Learning Activities
 
 ### 📘 Courses Completed
 - [x] **Udemy** – "Computer Networking for Beginners - Non-Tech"
+*[View this repository] > https://github.com/ma-quinnn/MyCertifications
 
 ### 🧠 Platform: TryHackMe
 - [x] Completed multiple **introductory rooms** (networking, Linux, basic security)
