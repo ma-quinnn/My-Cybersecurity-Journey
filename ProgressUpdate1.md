@@ -23,7 +23,7 @@ Hi, It's Quinnn (not my real name) — an aspiring **Cybersecurity Analyst** wit
 | Phase                    | Status       | Notes |
 |-------------------------|--------------|-------|
 | 📚 Core Knowledge        | ✅ Completed | Finished "Non-Tech Computer Networking" course on Udemy | 
-                                            > https://drive.google.com/file/d/1LU9-TBxu8FrJZv-IB00d8pCDNL5znhzn/view?usp=drivesdk
+                              [View this repository] > https://github.com/ma-quinnn/MyCertifications
 | 🌐 Networking Concepts   | 🔄 Ongoing   | Continuously deepening my understanding of networking |
 | 🛠️ Hands-On Labs         | 🟡 In Progress | Active in TryHackMe Rooms, learning Kali Linux and VMs |
 | 💻 Virtualization Skills | 🟡 In Progress | Practicing with VirtualBox and VM environments |
