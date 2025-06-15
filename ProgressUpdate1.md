@@ -35,7 +35,7 @@ Hi, It's Quinnn (not my real name) — an aspiring **Cybersecurity Analyst** wit
 
 ### 📘 Courses Completed
 - [x] **Udemy** – "Computer Networking for Beginners - Non-Tech"
-*[View this repository] > https://github.com/ma-quinnn/MyCertifications
+      : *[View this repository] > https://github.com/ma-quinnn/MyCertifications
 
 ### 🧠 Platform: TryHackMe
 - [x] Completed multiple **introductory rooms** (networking, Linux, basic security)
